@@ -72,8 +72,6 @@ Signin process will be providing token and the same token will be used to execut
 
 This is directory structure for our Node.js Express application:
 
-![Node.js Express REST API](https://github.com/TravelXML/REST-API-WITH-PYTHON-PHP-NODEJS-GO-DJANGO-LARAVEL-LUMEN-Examples/blob/main/images/Nodejs-Jwt-1.png)
-
 – config
 
     - configure MySQL database & Sequelize
